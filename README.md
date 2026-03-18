@@ -71,7 +71,7 @@ FPV_DBS_Final1
 
 ## 👨‍🎓 Author
 
-Author      : Sagar Sant
-Roll Number : 23035010233
-Program     : B.Sc. (Hons) Data Science and Artificial Intelligence
-Institute   : Indian Institute of Technology Guwahati
+* Author      : Sagar Sant
+* Roll Number : 23035010233
+* Program     : B.Sc. (Hons) Data Science and Artificial Intelligence
+* Institute   : Indian Institute of Technology Guwahati
