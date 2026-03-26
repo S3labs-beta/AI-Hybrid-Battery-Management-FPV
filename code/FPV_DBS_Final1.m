@@ -35,6 +35,7 @@ function FPV_DBS_Final1
 % - Flight profile (time, mission phase, dynamic load conditions)
 % - Battery parameters (capacity, voltage characteristics, temperature)
 % - Environmental factors (stochastic disturbances such as wind)
+% - Aggresive maneuvers during the flight duration
 %
 % Outputs :
 % - Intelligent battery selection (LiPo / Li-ion) over time
